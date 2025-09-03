@@ -21,4 +21,3 @@ unthermal/datafiles/Thermal_profile_closed_exp.csv
 unthermal/datafiles/Thermal_static_gain_model.csv
 unthermal/datafiles/Thermal_static_gain_response.csv
 unthermal/datafiles/Thermal_step_closed_exp.csv
-venv/bin/activate_this.py
